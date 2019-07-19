@@ -23,6 +23,6 @@ lib/__pycache__/
 
 options/__pycache__/
 utils/__pycache__/
-
+/txt_for_folds/
 /data/
 /output/
